@@ -2,7 +2,6 @@
 How to Setup Roadrunner Email on Outlook
 ===============================
 
-.. raw:: html
 
  .. image:: https://img.shields.io/badge/Get%20Help-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
